@@ -34,12 +34,12 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | Tricky-Addon | 配置Tricky Store目标文件 | [访问](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/) |
 | Play Integrity Fix | 修复谷歌认证 | [访问](https://github.com/chiteroman/PlayIntegrityFix/) |
 | 哔哩漫游 | 解锁B站港澳台番剧限制 | LSPosed仓库 |
-| 度盘+ | 解锁部分VIP功能（11.34.5） | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/%E5%BA%A6%E7%9B%98%2B.apk) |
+| 度盘+ | 解锁部分VIP功能（11.34.5） | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Root/%E5%BA%A6%E7%9B%98%2B.apk) |
 | AdClose <br> AdClose规则 | 拦截常见广告 | LSPosed仓库 <br> [10007规则](https://raw.gitmirror.com/lingeringsound/10007_auto/master/10007.rule)  [秋风规则](https://hub.gitmirror.com/raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-AdClose.rule) |
 | Dyoo | 抖音模块 | 互联网 |
 | Hookvip | 解锁部分APP高级版 | LSPosed仓库 |
 | HyperCeiler | HyperOS系统优化 | LSPosed仓库 |
-| HyperOS主题破解 | 破解HyperOS主题 | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/HyperOS%E4%B8%BB%E9%A2%98%E7%A0%B4%E8%A7%A31.0.apk) |
+| HyperOS主题破解 | 破解HyperOS主题 | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Root/HyperOS%E4%B8%BB%E9%A2%98%E7%A0%B4%E8%A7%A31.0.apk) |
 | QAuxiliary | QQ辅助性功能增强 | LSPosed仓库 |
 | WAixiliary | 微信辅助性功能增强 | LSPosed仓库 |
 | XAutoDaily | QQ全自动签到 | LSPosed仓库 |
