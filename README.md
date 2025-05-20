@@ -34,12 +34,12 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | Tricky-Addon | 配置Tricky Store目标文件 | [访问](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/) |
 | Play Integrity Fix | 修复谷歌认证 | [访问](https://github.com/chiteroman/PlayIntegrityFix/) |
 | 哔哩漫游 | 解锁B站港澳台番剧限制 | LSPosed仓库 |
-| 度盘+ | 解锁部分VIP功能（11.34.5） | [访问](https://wwyo.lanzouu.com/i8cBL2wqbdaf) <br> 提取码：8888 |
+| 度盘+ | 解锁部分VIP功能（11.34.5） | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/%E5%BA%A6%E7%9B%98%2B.apk) |
 | AdClose <br> AdClose规则 | 拦截常见广告 | LSPosed仓库 <br> [10007规则](https://raw.gitmirror.com/lingeringsound/10007_auto/master/10007.rule)  [秋风规则](https://hub.gitmirror.com/raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-AdClose.rule) |
 | Dyoo | 抖音模块 | 互联网 |
 | Hookvip | 解锁部分APP高级版 | LSPosed仓库 |
 | HyperCeiler | HyperOS系统优化 | LSPosed仓库 |
-| HyperOS主题破解 | 破解HyperOS主题 | [访问](https://wwyo.lanzouu.com/iRV442wqbd7c) <br> 提取码：8888 |
+| HyperOS主题破解 | 破解HyperOS主题 | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/HyperOS%E4%B8%BB%E9%A2%98%E7%A0%B4%E8%A7%A31.0.apk) |
 | QAuxiliary | QQ辅助性功能增强 | LSPosed仓库 |
 | WAixiliary | 微信辅助性功能增强 | LSPosed仓库 |
 | XAutoDaily | QQ全自动签到 | LSPosed仓库 |
@@ -53,9 +53,9 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | FlClash | 节点管理器 | [访问](https://github.com/chen08209/FlClash/) |
 | Clash Meta | 节点管理器 | [访问](https://github.com/MetaCubeX/ClashMetaForAndroid/) |
 | Nekobox | 节点管理器 | [访问](https://github.com/MatsuriDayo/NekoBoxForAndroid/) |
-| LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-mobile/) <br> [公众号v3.0](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
+| LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-mobile/) <br> [公众号v3.0](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
 | OK影视 <br> (潇洒本地包) | 观影·直播 | [夸克](https://pan.quark.cn/s/6fead79bddaf/) [百度](https://pan.baidu.com/s/1qsFAtHiTCR3qdFZLaDb9Qg?pwd=7p5x) [UC](https://drive.uc.cn/s/01bc89c897034/)  <br> [多线路](https://gitee.com/PizazzXS/another-d/raw/master/多线路.zip) [单线路](https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip) |
-| 影视仓v3 | 安卓4.4观影（适用电视） | [访问](https://wwyo.lanzouu.com/irR632wqbsni) <br> 提取码：8888 |
+| 影视仓v3 | 安卓4.4观影（适用电视） | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/%E5%BD%B1%E8%A7%86%E4%BB%93v3.apk) |
 | piko | 推特功能拓展 | [访问](https://github.com/crimera/twitter-apk) |
 </details>
 
@@ -75,7 +75,7 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | GenP | Adobe全家桶破解 | [访问](https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.2620.FE0F_guide_.232_-_dummy_guide_for_first_timers_genp_.28cc_.2B_genp.29) |
 | QQ音乐v19.43 | QQ音乐旧版，会员音乐下载无特殊加密 | [访问](https://dldir1v6.qq.com/music/clntupate/QQMusic_Setup_1943.exe) |
 | unblock-music | 解锁音乐加密文件 | [访问](https://git.unlock-music.dev/um/um-react/tags) |
-| LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-desktop/) <br> [公众号v3.0](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/The-Joker-0806/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
+| LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-desktop/) <br> [公众号v3.0](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
 | 剪映电脑VIP | 剪辑 | [访问](https://www.kdocs.cn/l/cfbw9GbK1NaR) |
 | delete-my-history-in-tieba | 删除贴吧回复、主题帖 | [访问](https://github.com/rmb122/delete-my-history-in-tieba) |
 </details>
