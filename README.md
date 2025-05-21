@@ -57,6 +57,8 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | OK影视 <br> (潇洒本地包) | 观影·直播 | [夸克](https://pan.quark.cn/s/6fead79bddaf/) [百度](https://pan.baidu.com/s/1qsFAtHiTCR3qdFZLaDb9Qg?pwd=7p5x) [UC](https://drive.uc.cn/s/01bc89c897034/)  <br> [多线路](https://gitee.com/PizazzXS/another-d/raw/master/多线路.zip) [单线路](https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip) |
 | 影视仓v3 | 安卓4.4观影（适用电视） | [访问](https://raw.githubusercontent.com/V-ict0r/BookMark/refs/heads/main/Android/Daily/%E5%BD%B1%E8%A7%86%E4%BB%93v3.apk) |
 | piko | 推特功能拓展 | [访问](https://github.com/crimera/twitter-apk) |
+| LocalSend | 跨平台分享文件 | [访问](https://localsend.org/zh-CN/download) |
+| 贴吧Lite | 第三方贴吧 | [访问](https://github.com/HuanCheng65/TiebaLite) |
 </details>
 
 ## Windows
@@ -77,6 +79,7 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | unblock-music | 解锁音乐加密文件 | [访问](https://git.unlock-music.dev/um/um-react/tags) |
 | LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-desktop/) <br> [公众号v3.0](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
 | 剪映电脑VIP | 剪辑 | [访问](https://www.kdocs.cn/l/cfbw9GbK1NaR) |
+| LocalSend | 跨平台分享文件 | [访问](https://localsend.org/zh-CN/download) |
 | delete-my-history-in-tieba | 删除贴吧回复、主题帖 | [访问](https://github.com/rmb122/delete-my-history-in-tieba) |
 </details>
 
