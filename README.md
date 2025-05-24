@@ -80,6 +80,8 @@ https://test2.070160.xyz/test2?sub=zrf.zrf.me
 | LX Music | 听歌 | [访问](https://github.com/lyswhut/lx-music-desktop/) <br> [公众号v3.0](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/lx-music-sourceV3.0.js) [野花](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/YH.js) [Huibq](https://raw.githubusercontent.com/V-ict0r/BookMark/main/Android/Daily/LXMusic/Huibq_lxmusic.js)|
 | 剪映电脑VIP | 剪辑 | [访问](https://www.kdocs.cn/l/cfbw9GbK1NaR) |
 | LocalSend | 跨平台分享文件 | [访问](https://localsend.org/zh-CN/download) |
+| Internet Download Manager | 多线程下载 | [访问](https://www.internetdownloadmanager.com/) |
+| IDM 6.4x Crack | IDM破解 | [Feedback](https://nsaneforums.com/topic/425866-idm-64x-crack-release-and-feedback/) <br> [下载地址(自行查找Ali.Dbg发帖)](https://nsaneforums.com/topic/378879-internet-download-manager/) |
 | delete-my-history-in-tieba | 删除贴吧回复、主题帖 | [访问](https://github.com/rmb122/delete-my-history-in-tieba) |
 </details>
 
